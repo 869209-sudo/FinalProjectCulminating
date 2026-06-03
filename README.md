@@ -1,6 +1,6 @@
 # ICS4UR-1 Final Culminating Project
 Authored by Santiago Marin
 ## Project Overview: Martian Madness
-This project follows our jetpack-strapped protagonist on an adventure through the cosmos, in his journey he will have to fly his way around different alien threats and collect coins to pay his debt from buying said jetpack. 
+This project follows our jetpack-strapped protagonist on an adventure through the cosmos, on his journey he will have to fly his way around different alien threats and collect coins to pay his debt from buying said jetpack. 
 ## Theme and Reasoning
 The main theme of the game is an arcade flying game that is intended to be infinitely replayable and provide a satisfying highscore chasing experience. The game includes several obstacles that must be dodged by the player using the space bar to control their flight, the game also includes a main menu, and a highscore system. I chose this theme due to it being a more creative take on a flappy bird game idea, and it seems like it would be a fun challenge to put together, and allow me to add more ideas to the game without needing to completely change the gameplay formula. I hope to accomplish the creation of a fun timekiller game that can be played in short bursts.
